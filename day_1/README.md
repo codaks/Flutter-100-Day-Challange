@@ -1,6 +1,11 @@
 # day_1
 
-A new Flutter project.
+Flutter UI for Day with basic carousel.
+
+## Screenshot
+
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/48233397/94899614-4186ae00-04b1-11eb-9e3b-31364ac730ff.png)
+
 
 ## Getting Started
 
